@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013341062606",
+    "project_id": "juliana-student-registration",
+    "storage_bucket": "juliana-student-registration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013341062606:android:25f95aad5c1df01cf9d79f",
+        "android_client_info": {
+          "package_name": "com.example.julianastudentregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmpKu4QoC8Dx3wcUbDMJBAjvMm3gu6h6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
